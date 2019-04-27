@@ -4,7 +4,7 @@
  * Udemy Master Object Oriented Design in Java
  * Section 4 Lecture 26 "Dependency Injeciton Part I"
  */
-package section4.dependencyInjection.app;
+package section4.dependencyInjection.clients;
 
 import section4.dependencyInjection.parts.SmallEngine;
 import section4.dependencyInjection.vehicles.Vehicle;
